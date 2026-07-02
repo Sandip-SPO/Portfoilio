@@ -55,7 +55,7 @@ https://github.com/Sandip-SPO/Portfoilio.git
 Move into the project directory
 
 ```bash
-cd MY_PORTFOLIO
+cd MY_PORTFOILIO
 ```
 
 Install dependencies
