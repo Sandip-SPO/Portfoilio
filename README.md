@@ -4,8 +4,6 @@ A modern, responsive personal portfolio website built to showcase my projects, s
 
 ## 📸 Preview
 
-> Add screenshots of your portfolio here.
-
 
 ![Portfolio](https://github.com/user-attachments/assets/a3e28b01-b5d3-4bc3-a0d3-6ff5e0106abd)
 
